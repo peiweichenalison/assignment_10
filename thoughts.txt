@@ -1,0 +1,5 @@
+assignment_10 
+why tracking these elements are important to you?
+Through the test, i found that people are interested in workshops rather than situations, which refers to the festival or birthday they face when they intend to give their lovers some surprise.
+therefore, i try to clarify the workshop and the products directly both for a clear purpose and business model.but i am not sure if people are interested in products.what's more, i am not sure which part i should pay more attention to.
+in addition, in the part of the workshop,i try to decide one classification from areas and types which attracts users more.therefore, i chose these two elements to add the eventlistener functions.
